@@ -1,0 +1,29 @@
+#map {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+#containerOne {
+    position: relative;
+    z-index: 2;
+}
+
+#labelOne {
+    background-color: white;
+    border-style: dotted;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-style: italic;
+}
+
+#labelTwo {
+    background-color: white;
+    border-style: dotted;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-style: italic;
+}
